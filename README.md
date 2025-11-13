@@ -42,7 +42,7 @@ This project showcases a fully interactive frontend with authentication, product
 ---
 
 ## Live Demo
-[View Live on Vercel](https://your-vercel-deployment-link.vercel.app)
+[View Live on Vercel](https://sentinel-inky.vercel.app/)
 
 ---
 
